@@ -4,7 +4,6 @@
 ## that stores an invertable matrix and caches its inverse.
 
 
-
 ## This function creates a special "matrix" object 
 ## which is a list containing functions to set and get the value of
 ## the matrix and its inverse
